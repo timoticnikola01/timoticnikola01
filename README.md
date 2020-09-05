@@ -1,4 +1,4 @@
-### Nikola Timotic --- @timoticnikola01 👋
+### Nikola Timotic —— @timoticnikola01 👋
 
 - 🔭 I’m currently working on 'i3-dotfiles' and 'install-script'.
 
