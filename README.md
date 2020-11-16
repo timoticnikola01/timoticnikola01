@@ -1,6 +1,6 @@
 ### Nikola Timotic — @timoticnikola01 👋
 
-- 🔭 I’m currently working on 'i3-dotfiles' and 'install-script'.
+- 🔭 I’m currently working on 'website'.
 
 <!--
 **timoticnikola01/timoticnikola01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
