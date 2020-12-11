@@ -1,4 +1,4 @@
-### Nikola Timotic — @timoticnikola01 👋
+### Nikola Timotic — @timoticnikola 👋
 
 - 🔭 I’m currently working on 'website'.
 
